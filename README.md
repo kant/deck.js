@@ -1,4 +1,4 @@
-#deck.js
+# deck.js
 
 A JavaScript library for building modern HTML presentations. deck.js is flexible enough to let advanced CSS and JavaScript authors craft highly customized decks, but also provides templates and themes for the HTML novice to build a standard slideshow.
 
@@ -17,7 +17,7 @@ Take a look at [the wiki](https://github.com/imakewebthings/deck.js/wiki) for li
 ## Dependencies (included in this repository)
 
 - [jQuery](http://jquery.com)
-- [Modernizr](http://modernizr.com)
+- [Modernizr](https://modernizr.com)
 
 ## Tests & Support
 
